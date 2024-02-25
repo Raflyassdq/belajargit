@@ -8,3 +8,6 @@ Belajar untuk kerja
   2. Serial           6. PYpng                 10. QML (Front End)
   3. SQLite3 (SQL)    7. Dlib
   4. OpenCV           8. Pygame
+Menggunakan Discord
+Menggunakan SQLite DB Browser
+Menggunakan VScode
